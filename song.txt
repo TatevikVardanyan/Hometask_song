@@ -30,7 +30,7 @@ And I'll tell you all about it when I see you again
 We've come a long way from where we began
 Oh I'll tell you all about it when I see you again
 When I see you again
-<<<<<<< HEAD
+
 
 First, you both go out your way
 And the vibe is feeling strong
@@ -45,7 +45,3 @@ When that line had to be drawn
 And that line is what we reached
 So remember me when I'm gone
 
-
-
-=======
->>>>>>> e1472665d5e139630a9c9ee2ad47cab68cd732ad
